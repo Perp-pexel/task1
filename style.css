@@ -12,7 +12,7 @@ body{
 }
 
 header{
-    background-image: linear-gradient(to top right,#0e0c0d64,#19191a61) ,url(../asset/image/webpic1.jpg);
+    background-image: linear-gradient(to top right,#0e0c0d64,#19191a61) ,url(./asset/image/webpic1.jpg);
     background-size: cover;
     background-position: center;
     height: 72vh;
